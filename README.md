@@ -48,11 +48,11 @@ When the ai chooses and performs the action, the environment gives a reward, the
 
 
 <p align="center">
-<img src="https://github.com/le11evan/CPSC_481_Final_Project/blob/master/graph results.png" width="250" height="250" />
+<img src="https://github.com/le11evan/CPSC_481_Final_Project/blob/main/graph results.png" width="250" height="250" />
  </p>
  
 <p align="center">
-<img src="https://github.com/le11evan/CPSC_481_Final_Project/blob/master/results.png" width="250" height="250" />
+<img src="https://github.com/le11evan/CPSC_481_Final_Project/blob/main/results.png" width="250" height="250" />
  </p>
 
 
