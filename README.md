@@ -37,7 +37,23 @@ The system gets the current state.
 Based on the state, it executes an action, randomly based on its neural network. During the beginning, the system will choose random actions, but as it learns, it will rely more on the neural network. [you will see in demo]
 When the ai chooses and performs the action, the environment gives a reward, then the agent reaches the new state and updates its q-value.
 
+## Results
+
+This uses a deep neural network layer with an input layer size of 11 and one dense layer with 256 neurons and an output of 3 neurons.
+How the model works
+The game starts, and the q-value is randomly initialized.
+The system gets the current state.
+Based on the state, it executes an action, randomly based on its neural network. During the beginning, the system will choose random actions, but as it learns, it will rely more on the neural network. [you will see in demo]
+When the ai chooses and performs the action, the environment gives a reward, then the agent reaches the new state and updates its q-value.
+![Uploading image.png…]()
 
 
+<p align="center">
+<img src="https://github.com/le11evan/Flushy_Website/blob/master/images/Flushy-Logo-3.png" width="250" height="250" />
+ </p>
+ 
+ <p align="center">
+<img src="https://github.com/le11evan/Flushy_Website/blob/master/images/Flushy-Logo-3.png" width="250" height="250" />
+ </p>
 
 
