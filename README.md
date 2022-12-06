@@ -48,7 +48,7 @@ When the ai chooses and performs the action, the environment gives a reward, the
  </p>
 
 <p>
-<img src="https://github.com/le11evan/CPSC_481_Final_Project/blob/main/intial game gif.gif" width=380px height=250px align='left'>
+<img src="https://github.com/le11evan/CPSC_481_Final_Project/blob/main/initial game gif.gif" width=380px height=250px align='left'>
 <img src="https://github.com/le11evan/CPSC_481_Final_Project/blob/main/after 80 games gif.gif" width=380px height=250px align='right'>
 <br><br><br><br><br><br><br><br><br><br><br>
 <p style="font-size:25px">
