@@ -48,10 +48,9 @@ When the ai chooses and performs the action, the environment gives a reward, the
  </p>
 
 <p>
-  <h2>Result</h2>
 <img src="https://github.com/vedantgoswami/SnakeGameAI/blob/main/Images/new.gif" width=380px height=250px align='left'>
 <img src="https://github.com/vedantgoswami/SnakeGameAI/blob/main/Images/Animation.gif" width=380px height=250px align='right'>
 <br><br><br><br><br><br><br><br><br><br><br>
 <p style="font-size:25px">
-<pre>              <b> Intial Results</b>                                           <b>After about 80<sup>th</sup> Games</b></pre>
+<pre>              <b> Intial Results</b>                                                     <b>After about 80<sup>th</sup> Games</b></pre>
 </p>
